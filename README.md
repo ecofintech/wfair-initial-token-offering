@@ -1,5 +1,9 @@
 # Initial Token Offering (ITO)
 
+
+
+
+
 #  WFair Custodian Fees Open Cooperative Shares
 
 Crowdfunding campaign for developing Wrapped Faircoin (WFAIR).
